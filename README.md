@@ -1,11 +1,5 @@
-<p align="center" width="100%">
-    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
-</p>
-
 ---
-
 # [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
-
 ---
 
 # Developer Portfolio
@@ -102,12 +96,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ### Running with Docker Compose
 
 1. **Build Docker Image and Run Container**:
-    ```bash
-    docker-compose up --build
-    ```
+
+   ```bash
+   docker-compose up --build
+   ```
 
 2. **Access the Application**:
-    Visit [http://localhost:3000](http://localhost:3000) in your web browser to view the running application.
+   Visit [http://localhost:3000](http://localhost:3000) in your web browser to view the running application.
 
 ---
 
@@ -115,18 +110,18 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 1. **Build the Docker Image using Dockerfile.dev**:
 
-    ```bash
-    docker build -t nextjs-app -f Dockerfile.dev .
-    ```
+   ```bash
+   docker build -t nextjs-app -f Dockerfile.dev .
+   ```
 
 2. **Running the Docker Container**:
 
-    ```bash
-    docker run -p 3000:3000 nextjs-app
-    ```
+   ```bash
+   docker run -p 3000:3000 nextjs-app
+   ```
 
 3. **Access the Application**:
-    Visit [http://localhost:3000](http://localhost:3000) in your web browser to view the running application.
+   Visit [http://localhost:3000](http://localhost:3000) in your web browser to view the running application.
 
 ---
 
