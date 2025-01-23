@@ -12,8 +12,8 @@ import Projects from "./components/homepage/projects";
 import Skills from "./components/homepage/skills";
 
 export default function Home() {
-  const [blogs, setBlogs] = useState([]);
-  const [error, setError] = useState(null);
+  // const [blogs, setBlogs] = useState([]);
+  // const [error, setError] = useState(null);
 
   // useEffect(() => {
   //   const fetchData = async () => {
